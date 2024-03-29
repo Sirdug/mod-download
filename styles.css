@@ -27,6 +27,21 @@ img{
 
 }
 
+a{
+    padding: 12px 24px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    border-radius: 8px;
+    transition: background-color 0.3s ease;
+}
+
+a:hover{
+    background-color: #0056b3;
+}
+
 button {
     padding: 12px 24px;
     font-size: 16px;
